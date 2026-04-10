@@ -9,9 +9,10 @@
 // }
 export default function Home() {
   return (
-    <div style={{padding: "20px"}}>
-      <h1>Finance Buddy ✅</h1>
-      <p>Your app is working!</p>
+    <div style={{ padding: "20px" }}>
+      <h1> Finance Buddy </h1>
+      <p>Track your expenses easily</p>
+      <button>Add Expense</button>
     </div>
   );
 }
